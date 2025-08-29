@@ -88,3 +88,11 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 ## Contact
 
 For questions or feedback, please open an issue on [GitHub](https://github.com/your-username/password-checker/issues).
+# 🔐 Password Checker
+
+[![License](https://img.shields.io/github/license/alex96656/Hello-word)](https://github.com/alex96656/Hello-word/blob/main/LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
+[![Issues](https://img.shields.io/github/issues/alex96656/Hello-word)](https://github.com/alex96656/Hello-word/issues)
+[![Stars](https://img.shields.io/github/stars/alex96656/Hello-word?style=social)](https://github.com/alex96656/Hello-word/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/alex96656/Hello-word)](https://github.com/alex96656/Hello-word/commits/main)
+[![Pull Requests](https://img.shields.io/github/issues-pr/alex96656/Hello-word)](https://github.com/alex96656/Hello-word/pulls)
