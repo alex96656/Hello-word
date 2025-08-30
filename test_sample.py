@@ -1,8 +1,7 @@
-# Stage all new and changed files (test + workflow)
-git add .
+# test_sample.py
 
-# Commit with a clear message
-git commit -m "Add basic pytest test and workflow setup"
-
-# Push to GitHub
+def test_math():
+    assert 1 + 1 == 2
+git add test_sample.py
+git commit -m "Fix test_sample.py syntax error"
 git push
